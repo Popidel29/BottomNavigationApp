@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/post"
+        android:icon="@drawable/ic_go_post"
+        android:title="@string/posts"/>
+
+    <item
+        android:id="@+id/comment"
+        android:title="@string/comments"
+        android:icon="@drawable/ic_go_post"/>
+
+</menu>

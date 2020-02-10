@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationApp</string>
+    <string name="go_post">go_post</string>
+    <string name="comments">comments</string>
+    <string name="posts">posts</string>
+    <string name="retry">retry</string>
+
+</resources>
